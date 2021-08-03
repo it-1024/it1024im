@@ -1,11 +1,11 @@
-# it-1024
+# it-1024im
 > 在线客服系统，访客在线聊天系统  [点击进入官网](http://it1024im.it-1024.net/)
 
 ### 后台客服部分页面展示
 
 ![](https://i.loli.net/2021/08/03/QchCkSPZ8Li3VYd.png "后台管理页")
 
-![](https://i.loli.net/2021/08/03/mrlv8yKXgIDJhfW.png "后台管理页")
+<!-- ![](https://i.loli.net/2021/08/03/mrlv8yKXgIDJhfW.png "后台管理页") -->
 
 
 ### 访客部分页面展示
