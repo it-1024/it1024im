@@ -13,6 +13,11 @@
 ![](https://i.loli.net/2021/08/03/lkSmKXxMGVysB4d.png "访客页")
 
 
+### 手机端页面展示
+
+![](https://s2.loli.net/2022/02/18/kFgCv8A27G91Vbx.jpg "手机端页面展示")
+
+
 ### 基本功能
 - [x]  访客信息邮件通知
 - [x]  收到信息声音提示
@@ -32,6 +37,10 @@
 - 后端技术
   - mysql 5.6
   - php 5.6
+
+### 技术交流
+- QQ交流群(付费)，疑问解答
+      <a target="_blank" style="vertical-align: text-bottom;" href="http://m.it-1024.net/qqun.php" rel="nofollow"><img src="https://camo.githubusercontent.com/c57758b9528d6fd7b961a3c7322277a749c6a259fc651471f2c1d4347c64f7e6/687474703a2f2f7075622e69647171696d672e636f6d2f7770612f696d616765732f67726f75702e706e67" alt="" data-canonical-src="http://pub.idqqimg.com/wpa/images/group.png" style="max-width:100%;"></a>
 
 ### 说明
 - 个人学习使用遵循GPL开源协议
