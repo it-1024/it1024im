@@ -1,49 +1,35 @@
-# it1024im
-> 在线客服系统，访客在线聊天系统  [点击进入官网](http://im.it1024.com.cn)
+# it-1024
+> 资源下载管理系统  [点击进入官网](http://dl.it1024.com.cn)
 
-### 后台客服部分页面展示
+### 前端部分页面展示
 
-![](https://i.loli.net/2021/08/03/QchCkSPZ8Li3VYd.png "后台管理页")
+![](https://i.loli.net/2020/09/11/xBijEYoHhpOJKrF.png "后台管理页")
 
-<!-- ![](https://i.loli.net/2021/08/03/mrlv8yKXgIDJhfW.png "后台管理页") -->
+![](https://i.loli.net/2020/09/11/qhAVGb176lzOTsj.png "首页")
 
-
-### 访客部分页面展示
-
-![](https://i.loli.net/2021/08/03/lkSmKXxMGVysB4d.png "访客页")
-
-
-### 手机端页面展示
-
-![](https://s2.loli.net/2022/02/18/kFgCv8A27G91Vbx.jpg "手机端页面展示")
-
+![](https://i.loli.net/2020/09/11/HPqY6rNUMp3tKnx.png "下载页")
 
 ### 基本功能
-- [x]  访客信息邮件通知
-- [x]  收到信息声音提示
-- [x]  后台进行一对一回复
-- [x]  设置客服、访客头像
-- [x]  可将聊天窗口进行拖拽
-- [x]  设置在线或离线状态，离线状态自动回复
-- [x]  可以发送聊天图片
-- [x]  支持电脑/手机端
+- [x]  用户注册、登录
+- [x]  查看详细资源信息与下载
+- [x]  发布资源与图片信息
+- [x]  积分充值
+- [x]  管理用户（删除、禁用）
+- [x]  查看资源文章、用户、下载、收益等数据分析、
 
 ### 开发相关技术说明
-- 前端框架
-  - VUE
-  - Element UI
-  - JavaScript
-  - JSON
-- 后端技术
+- 前端
+  - vue
+  - vuex
+  - element-ui
+  - echarts
+  - axios
+  - bootstrap
+  - qrcodejs
+  - jquery
+- 后端
   - mysql 5.6
   - php 5.6
-
-### 技术交流
-- QQ交流群(付费)，疑问解答
-      <a target="_blank" style="vertical-align: text-bottom;" href="http://m.it1024.com.cn/qqun.php" rel="nofollow"><img src="https://camo.githubusercontent.com/c57758b9528d6fd7b961a3c7322277a749c6a259fc651471f2c1d4347c64f7e6/687474703a2f2f7075622e69647171696d672e636f6d2f7770612f696d616765732f67726f75702e706e67" alt="" data-canonical-src="http://pub.idqqimg.com/wpa/images/group.png" style="max-width:100%;"></a>
-
-- 免费交流群 143923451
-      <a target="_blank" style="vertical-align: text-bottom;" href="https://jq.qq.com/?_wv=1027&k=UhGcxgZ5" rel="nofollow"><img src="https://camo.githubusercontent.com/c57758b9528d6fd7b961a3c7322277a749c6a259fc651471f2c1d4347c64f7e6/687474703a2f2f7075622e69647171696d672e636f6d2f7770612f696d616765732f67726f75702e706e67" alt="" data-canonical-src="http://pub.idqqimg.com/wpa/images/group.png" style="max-width:100%;"></a>
 
 ### 说明
 - 个人学习使用遵循GPL开源协议
